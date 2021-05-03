@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding:0;
+  font-family: 'Bodoni MT Black';
+  background: linear-gradient(to right, rgb(77, 175, 249), rgb(255, 26, 26));
+}
+
+button {
+	cursor: pointer;
+}
+
+
